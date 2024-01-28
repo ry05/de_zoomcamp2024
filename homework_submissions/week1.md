@@ -1,6 +1,6 @@
 # Module 1 
 
-You can find my learning process + rough notes [here](https://github.com/ry05/de_zoomcamp2024/blob/ry05-week1-submission/rough_notes/week1.md)
+You can find my learning process + rough notes [here](https://github.com/ry05/de_zoomcamp2024/blob/main/rough_notes/week1.md)
 
 ## Docker & SQL
 
